@@ -5,6 +5,6 @@
 ---
 
 ### :space_invader: About Me :
-I am a high schooler <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Korea.
+A sophomore at <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> the American International School of Guangzhou.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](joshuajinhakim)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-joshua-kim?style=flat&logo=Linkedin&logoColor=white)](joshuajinhakim)
